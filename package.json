@@ -1,7 +1,7 @@
 {
   "name": "todoListApi",
   "version": "1.0.0",
-  "description": "RESTful API Indonesian Detect Conversation Sentiment",
+  "description": "RESTful API Indonesian Sentiment Conersation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
