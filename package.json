@@ -1,16 +1,27 @@
 {
   "name": "todoListApi",
   "version": "1.0.0",
-  "description": "RESTful API Indonesian Sentiment Conversation",
+  "description": "RESTful API Indonesian Detection Sentiment Conversation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
-  "REPO"
-  "keywords": [],
-  "author": "",
+  "repository": {
+  	"type": "git",
+  	"url": "git+https://github.com/Gunawan001/CobaAPI.git"
+  },
+  "keywords": [
+  	"RESTful",
+  	"API",
+  	"Tutorial"
+  ],
+  "author": "Gunawan",
   "license": "ISC",
+  "bugs": {
+  	"url": "https://github.com/Gunawan001/CobaAPI/issues"
+  },
+  "homepage": "https://github.com/Gunawan001/CobaAPI#readme",
   "devDependencies": {
     "nodemon": "^1.17.1"
   },
